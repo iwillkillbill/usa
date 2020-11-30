@@ -1,6 +1,6 @@
 <?php
 if (isset($_POST['submit'])) {
     echo 'lol';   
-    header("Location: /id");
+    header("Location: https://google.com/");
 }
 ?> 
