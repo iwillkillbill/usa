@@ -1,3 +1,3 @@
 <?php
-    header("Location: /id.html");
+    header("Location: https://google.com");
 ?> 
